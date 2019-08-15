@@ -3,7 +3,7 @@ layout: post
 title:  "엄마표 영어 코칭 후기"
 date:   2019-08-16
 author: 4살 딸을 둔 엄마
-categories: 엄마표 영어 코칭
+categories: "엄마표 영어 코칭"
 ---
 
 선생님의 영어 코칭을 통해 엄마표 영어를 시작한 4살 딸을 둔 엄마입니다.
