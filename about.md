@@ -62,5 +62,5 @@ permalink: /about/
 <br>
 
 *코칭 및 강의 신청하기: **ezelschool@naver.com***
-
+<br><br>
 
