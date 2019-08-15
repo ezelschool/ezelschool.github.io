@@ -48,11 +48,23 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: 엄마표영어(영어홈스쿨링) 코칭
+    desc: ""
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+#   - cat: 책읽기 코칭
+#     desc: ""
+   
+#   - cat: 학습법 코칭 & 홈스쿨러의 커리큘럼 코칭
+#     desc: ""
+  
+#   - cat: 진로코칭
+#     desc: ""
+    
+  - cat: 심리상담
+    desc: ""
+    
+  - cat: 부모코칭
+    desc: ""
 
 # Social icons and sharing options
 #
