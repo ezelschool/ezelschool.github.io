@@ -4,14 +4,63 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<center>에젤스쿨은 20여년 간의 교육경험을 통해, 아이들은 쉽게 변화되고 좋아질 수 있는 반면,<br>부모님들의 시각이 바뀌지 않아 아이들이 원래대로 되어버리는 것을 보고,<br>아이들의 진정한 변화는 부모님의 변화로부터 시작된다는 깨달음에 의해 세워졌습니다.<br>아이들의 교육문제를 고민하는 부모님을 위한 상담/코칭/강의를 하고 있습니다.<br>부모님이 바뀔 때 아이들은 놀라울 만큼 빨리 바뀝니다.</center><br>
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+***
+<br>
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+## 엄마표영어(영어홈스쿨링) 코칭
+![영어 코칭](https://cdn.pixabay.com/photo/2019/05/14/21/50/storytelling-4203628__480.jpg)
+아이들과 어른들은 언어를 받아들이는 뇌의 작용이 다르기에 공부방법 또한 달라야 합니다. 
+자신에게 맞는 영어컨텐츠(영어만화, 영어그림책)로 3년 안에 영어를 마스터하는 엄마표 영어를 진행할 수 있도록 돕습니다.
+- 영어 전혀 배우지 않은, 알파벳도 다 모르는 초3 남학생, 영어코칭 후 9개월 만에 성경을 영어로 읽을 수 있는 수준이 됨
+- 엄마표영어 하다가 정체기에 빠진 초4 남학생, 코칭 후 석달 만에 챕터북 읽을 수 있는 수준으로 레벨업, 재미있는 책을 많이 읽을 수 있게 되어 행복하다고 함
+- 유아 때 엄마표영어 하다가 손 놓고 있던 초1 여학생, 코칭 후 스스로 리더스를 열심히 읽게 됨
+- 엄마가 유치원 영어강사였지만 방법을 몰랐던 28개월 여아, 코칭 후 집에서 놀면서 영어 습득, 9개월 후 수시로 영어로 말하는 아이가 됨 
+- 파닉스만 알고 영어전혀 하지 않았던 6학년 남학생, 코칭 후 5개월 만에 얼리챕터북 읽는 수준이 됨<br><br><br>
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+## 책읽기 코칭 
+책을 싫어하는 아이는 없습니다. 자신에게 맞는 책을 만나지 못했을 뿐입니다. 학생의 성격과 기질과 수준을 파악하여 가장 적합한 책으로 안내합니다.  
+- 책을 안읽는다던 아이들, 코칭 후 가장 많이 듣는 말은 선생님이 골라준 책은 다 재미있다는 말
+- 자기가 읽고 싶은 책과 부모님이 읽히고 싶은 책이 늘 달라서 갈등을 일으켰던 초2 여학생, 코칭 후 학생과 부모님 모두 만족하는 독서생활을 하게 됨
+- 밖으로 나가 놀기만 했던 초3 남학생, 코칭 후 집에서 책읽다 깔깔 웃는 웃음소리를 가족들이 자주 듣게 됨
+- 6세 때까지 한국말을 잘 못하고, 초등저학년 때도 글자 읽고 쓰는 게 잘 안되었던 초6 남학생, 코칭 후 두꺼운 책, 어려운 책도 독파하는 실력이 됨<br><br><br>
+  
+  
+## 학습법 코칭 & 홈스쿨러의 커리큘럼 코칭
+과목에 따라, 아이들의 성격에 따라 효과적인 공부방법은 다 다릅니다. 아이들은 공부해라는 말만 들었지, 무엇을 어떻게 공부해야 할지는 모르는 경우가 대부분입니다.
+아이들의 장점을 발견하여 그것을 살릴 수 있는 공부법으로 안내합니다.<br><br>
+ 
+ 
+## 진로코칭
+태어날 때부터 봐 온 부모님도 아이가 어떤 소질과 특성을 가지고 있는지 모를 때가 많습니다. 아이들의 고유한 능력을 발견하고 키워나갈 수 있도록 돕습니다.
+- 음악을 해오던 초5 여학생, 코칭 후 무용으로 진로변경, 현재 중학생인데 계속 무용을 잘하고 있음
+- 음악 쪽 진로를 원했던 중2 여학생, 코칭 후 학습으로 진로변경, 이후 대학까지 잘 진학함
+- 학습만 신경써 왔던 중1 여학생, 코칭 후 음악으로 진로변경, 이후 음대진학
+- 자신의 삶에 대해 무계획이었던 20세 남학생, 코칭 후 작곡으로 진로확정, 이후 음대수석 입학
+- 작곡입시 준비하던 고3 여학생, 코칭 후 일반대 진학하기로 변경
+- 공부,운동 시켜오던 초6 남학생, 코칭 후 미술로 진로변경, 이후 입시미술학원에서 빠른 진보를 보임<br><br>
+ 
+
+## 심리상담
+자녀들에게 좋은 모습 보이고, 좋은 교육 시키고 싶지만,
+자신의 심리적인 문제로 인해 뜻대로 잘 되지 않는 것을 부모님들은 많이 경험합니다.
+*“좋은 부모의 시작은 자기 치유다”* 라는 책제목처럼, 부모님들의 심리적 문제가 해결되면 자녀들은 저절로 좋아지는 것을 많이 봅니다.  
+본인의 성장과 아이들의 성장이 함께 일어날 수 있도록 돕습니다.<br><br><br>
+
+
+## 현황
+- 에젤스쿨은 부산/김해/양산 등에서 엄마표영어 강의를 진행했습니다.
+- 엄마표영어 실천모임인 **[영어책장]** 카페를 운영하고 있습니다.
+- 서울/부산/경남/경기도에 있는 부모님들이 현재 코칭받고 있습니다.
+- 엄마들을 위한 독서동아리, 엄마들을 위한 영어스터디를 운영하고 있습니다.
+- 재능기부로 무료 한자수업을 4년째 하고 있습니다.
+- 수업결과 많은 아이들이 한자능력검정시험에서 우수상을 받았습니다.<br><br><br>
+
+***
+<br>
+
+*코칭 및 강의 신청하기: **ezelschool@naver.com***
+
+
