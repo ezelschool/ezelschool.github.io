@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "https://ezelschool.github.io" # the subpath of your site, e.g. /blog/
 url: "https://ezelschool.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/narrative-794978.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -48,7 +48,7 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: 엄마표영어(영어홈스쿨링) 코칭
+  - cat: 엄마표_영어
     desc: ""
 
 #   - cat: 책읽기 코칭
